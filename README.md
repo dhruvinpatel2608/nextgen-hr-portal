@@ -40,11 +40,34 @@ project-folder/
 
 │── package-lock.json
 
--│── Web/
+│── Web/
 
 - index.html
 - jobpost.html
 - viewjobpost.html
 
--│── README.md
+│── README.md
+
+
+---
+
+## 🛠 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/YOUR-USERNAME/nextgen-hr-system.git
+cd nextgen-hr-system
+
+### 2️⃣ Install dependencies
+npm install
+
+3️⃣ Start MongoDB
+
+Ensure MongoDB is running on:
+mongodb://localhost:27017
+
+4️⃣ Start backend server
+npm start
+http://localhost:4000
+
 
