@@ -41,9 +41,12 @@ project-folder/
 │── package-lock.json
 
 -│── Web/
--│ │── index.html
--│ │── jobpost.html
--│ │── viewjobpost.html
+
+- index.html
+- 
+-jobpost.html
+
+-viewjobpost.html
 
 -│── README.md
 
