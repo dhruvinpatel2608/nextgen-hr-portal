@@ -58,7 +58,7 @@ project-folder/
 git clone https://github.com/YOUR-USERNAME/nextgen-hr-system.git
 cd nextgen-hr-system
 
-### 2️⃣ Install dependencies
+2️⃣ Install dependencies
 npm install
 
 3️⃣ Start MongoDB
@@ -69,5 +69,29 @@ mongodb://localhost:27017
 4️⃣ Start backend server
 npm start
 http://localhost:4000
+
+🌐 Running the Frontend (without editing server.js)
+Option 1 (Recommended)
+npm install -g serve
+serve Web -l 5500
+
+Open:
+http://localhost:5500/index.html
+
+Option 2
+
+Open the HTML files directly (file:///)
+Fetch API still works with localhost:4000
+
+📡 API Usage Example
+POST /storeJobVacancy
+{
+  "name": "John Doe",
+  "email": "john@example.com",
+  "position": "Web Developer",
+  "resume": "Experienced in JavaScript..."
+}
+
+
 
 
