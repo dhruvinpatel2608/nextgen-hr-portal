@@ -48,9 +48,6 @@ project-folder/
 
 │── README.md
 
-
----
-
 ## 🛠 Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -70,11 +67,6 @@ mongodb://localhost:27017
 npm start
 http://localhost:4000
 
-
----
-
-
----
 🌐 Running the Frontend (without editing server.js)
 Option 1 (Recommended)
 npm install -g serve
