@@ -56,11 +56,9 @@ git clone https://github.com/YOUR-USERNAME/nextgen-hr-system.git
 cd nextgen-hr-system
 
 ## 2️⃣ Install dependencies
-```bash
 npm install
 
 3️⃣ Start MongoDB
-```bash
 Ensure MongoDB is running on:
 mongodb://localhost:27017
 
