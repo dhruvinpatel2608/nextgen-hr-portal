@@ -73,7 +73,9 @@ http://localhost:4000
 
 ---
 
-### 🌐 Running the Frontend (without editing server.js)
+
+---
+🌐 Running the Frontend (without editing server.js)
 Option 1 (Recommended)
 npm install -g serve
 serve Web -l 5500
