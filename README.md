@@ -43,10 +43,10 @@ project-folder/
 -│── Web/
 
 - index.html
-- 
--jobpost.html
 
--viewjobpost.html
+jobpost.html
+
+viewjobpost.html
 
 -│── README.md
 
