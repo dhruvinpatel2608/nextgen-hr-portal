@@ -32,3 +32,13 @@ Built using **Node.js**, **MongoDB**, and **Bootstrap** with a clean, modern des
 
 ## 📁 Project Structure
 
+project-folder/
+│── server.js
+│── package.json
+│── package-lock.json
+│── Web/
+│ │── index.html
+│ │── jobpost.html
+│ │── viewjobpost.html
+│── README.md
+
