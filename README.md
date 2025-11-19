@@ -55,7 +55,7 @@ project-folder/
 git clone https://github.com/YOUR-USERNAME/nextgen-hr-system.git
 cd nextgen-hr-system
 
-## 2️⃣ Install dependencies
+2️⃣ Install dependencies
 npm install
 
 3️⃣ Start MongoDB
