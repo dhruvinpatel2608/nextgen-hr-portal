@@ -94,6 +94,14 @@ POST /storeJobVacancy
   "resume": "Experienced in JavaScript..."
 }
 
+### 🧩 Technologies Used
+| Technology | Purpose        |
+| ---------- | -------------- |
+| Node.js    | Backend API    |
+| MongoDB    | Database       |
+| Bootstrap  | Frontend UI    |
+| HTML/CSS   | Frontend Pages |
+
 
 
 
